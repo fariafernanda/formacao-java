@@ -1,0 +1,15 @@
+package com.banco;
+
+public class ContaTerminal {
+
+	int numero;
+	String agencia;
+	String nomeCliente;
+	Double saldo; 
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

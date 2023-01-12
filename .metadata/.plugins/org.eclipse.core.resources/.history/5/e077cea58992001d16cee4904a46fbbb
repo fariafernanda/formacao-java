@@ -1,0 +1,17 @@
+package com.banco;
+
+import java.util.Scanner;
+
+public class ContaTerminal {
+
+	Conta conta = new Conta();
+		
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("Por favor, digite o número da agência: ");
+
+	}
+
+}
